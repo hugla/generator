@@ -1,0 +1,25 @@
+{
+  "name": "hugla-generator",
+  "version": "0.1.0",
+  "description": "hugla web framework project generator",
+  "keywords": [
+    "web",
+    "framework",
+    "hugla",
+    "generator"
+  ],
+  "homepage": "https://hugla.noosxe.com/",
+  "license": "",
+  "author": "noosxe <noosx.e@gmail.com> (https://noosxe.com/)",
+  "main": "bin/hugla",
+  "preferGlobal": true,
+  "bin": {
+    "express": "./bin/hugla"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
