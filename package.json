@@ -14,7 +14,7 @@
   "main": "bin/hugla",
   "preferGlobal": true,
   "bin": {
-    "express": "./bin/hugla"
+    "hugla": "./bin/hugla.js"
   },
   "dependencies": {
 
