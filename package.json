@@ -9,13 +9,9 @@
     "generator"
   ],
   "homepage": "https://hugla.noosxe.com/",
-  "license": "",
+  "license": "MIT",
   "author": "noosxe <noosx.e@gmail.com> (https://noosxe.com/)",
   "main": "bin/hugla",
-  "preferGlobal": true,
-  "bin": {
-    "hugla": "./bin/hugla.js"
-  },
   "dependencies": {
 
   },
